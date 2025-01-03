@@ -1,5 +1,5 @@
 {
-  "name": "kanban_taskmanager",
+  "name": "Kanban Board",
   "version": "0.1.0",
   "dependencies": {
     "@headlessui/react": "^1.7.13",
